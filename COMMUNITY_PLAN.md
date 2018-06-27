@@ -1,6 +1,7 @@
 Annual community support plan
 
-Campaign & AirDrop Overview
+Campaign & AirDrop Overview:
+
 
 Contributors may certainly always vote on their own with your own wallets and add or retract votes at anytime, but will not receive CCC Airdrops.
 
