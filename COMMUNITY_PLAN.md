@@ -2,7 +2,6 @@ Annual community support plan
 
 Campaign & AirDrop Overview:
 
-
 Contributors may certainly always vote on their own with your own wallets and add or retract votes at anytime, but will not receive CCC Airdrops.
 
 Everyone who wishes to take place in AirDrops will simply need to send at least one TRX or more to our Tron Representative Wallet: 
