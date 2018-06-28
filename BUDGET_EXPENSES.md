@@ -16,7 +16,7 @@ Network and ecosystem upkeep: 5-10%, Including Tron Nodes.
 
 Community and Charitable Funding: 50-75% *All transactions of the CCC cryptocurrency and charitable smart contract deployments and movements through the blockchain network will be free, utilizing Tron TRX as the transaction fuel for all GIVE Build network transactions and fees, covered by Charity Compassion Coin.
 
-Charity Compassion COin DApp GIVE Builder App will be utilizing PRE ICO and ICO capital raisings to fund the developments of the App for access by all compatible smartphones, portable tablets and devices, and select laptop hardware machine computers. The app will be downloadable for free via all global avilable app stores. Pre ICO and ICO capital raisings will be allocated to the listing fees and maintenace of the app to go onto these app stores (iTunes, Apple App Store, Google App Store, ETC.)
+Charity Compassion Coin DApp GIVE Builder App will be utilizing PRE ICO and ICO capital raisings to fund the developments of the App for access by all compatible smartphones, portable tablets and devices, and select laptop hardware machine computers. The app will be downloadable for free via all global avilable app stores. Pre ICO and ICO capital raisings will be allocated to the listing fees and maintenace of the app to go onto these app stores (iTunes, Apple App Store, Google App Store, ETC.)
 
 Charity Compassion Coin takes in charitable contributions into the foundation organization from private and public sources also.
 
