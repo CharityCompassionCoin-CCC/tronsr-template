@@ -14,7 +14,7 @@ Exchange fees: 10%
 
 Network and ecosystem upkeep: 5-10%, Including Tron Nodes.
 
-Community and Charitable Funding: 50-75%
+Community and Charitable Funding: 50-75% *All transactions of the CCC cryptocurrency and charitable smart contract deployments and movements through the blockchain network will be free utilizing Tron TRX as the transaction fuel
 
 Operating Generations Intakes charitable contributions into foundation from private and public sources also.
 
