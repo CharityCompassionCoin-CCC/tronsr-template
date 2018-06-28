@@ -1,6 +1,6 @@
 ## Founder
 
-Name: [Kingdom (Kin) Kendall]
+Name: [Kingdom Kendall]
 Role: [CEO, Founder, Creator/Coder]
 
 Team intros
