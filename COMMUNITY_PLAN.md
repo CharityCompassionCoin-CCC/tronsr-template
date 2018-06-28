@@ -1,4 +1,4 @@
-Annual community support plan
+ANNUAL COMMUNITY SUPPORT PLAN
 
 Campaign & AirDrop Overview:
 
@@ -18,6 +18,20 @@ Each new AirDrop based TRX sent to the CCC escrow wallet will only go to Charity
 
 All TRX votes will remain forever untouched.
 
+
+Token Overview:
+
+52 Billion Charity Compassion Coin (CCC)'s in all.
+
+Allocation:
+
+10 Billion allotted to AirDrop SR Campaign.
+
+40 Billion for Global use and circulation via charitable GIVE Builders, Governments/politicals and cryptocurrency trading exchanges.
+
+2 Billion are frozen for the next 3-5 years in Charity Compassion Coin's Treasury.
+
+
 Further implementation of Community support and ability for involvements:
 
 Continuation of pre-ico crowd-sale’s of all coded encryption coin securities/utilities. 
@@ -28,6 +42,7 @@ Airdrop continuation apart from initial pre ICO airdrops into community for crow
 
 Incentives of Tron based community forums directly here to contribute to constructive and positive conversations surrounding around the development space of Tron and Charity Compassion Coin. Such incentives entail receiving airdrop coins direct to your wallet(s) for consistent appropriate postings and forum conversations and permenate votings.
 
-Community promotion efforts
+
+Community promotion efforts:
 
 Cross platform marketing of social media accounts: Airdrops to devout community followers in Telegram, Facebook, Instagram and Twitter. Prospecting Reddit Currently.
