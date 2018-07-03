@@ -2,21 +2,39 @@ ANNUAL COMMUNITY SUPPORT PLAN
 
 Campaign & AirDrop Overview:
 
-Contributors may certainly always vote on their own with your own wallets and add or retract votes at anytime, but will not receive CCC Airdrops.
 
-Everyone who wishes to take place in AirDrops will simply need to send at least one TRX or more to our Tron Representative Wallet: 
+Guidance for Voters:
 
-THM4SAoJrNebe8zdQJ86eu41FXHHNbb8N
+Executive Introduction and Participation Guide:
 
-For every 1 TRX  that acts as a vote, you will receive in return 100 Charity Compassion Coin CCC’s. Each CCC represents $1 worth of charitable giving power.
+The way Charity Compassion Coin for Super Representative, is running its campaign is in two ways of participation:
 
-10 Billion Charity Compassion Coin’s will be airdropped in all.
+Charity Compassion Coin after being voted into SR Position and begins producing blocks will commence allocations of block rewards in the following coordination:
 
-The people whom continuously who sent in TRX votes during entire airdrop the most will also receive Tron block production rewards of TRX back to their wallets consistently.
 
-Each new AirDrop based TRX sent to the CCC escrow wallet will only go to Charity Compassion Coin's frozen TRX account to keep the democratic voting process for our Tron based Blockchain Node producing blocks that we have built and maintain running always. 
+Participation Type 1. 
 
-All TRX votes will remain forever untouched.
+Freeze Voters:
+
+Those whom casted top ten highest voting volumes will receive 50% of block production rewards every 24 hours in the form of Tron TRX: along with an annual end of year bonus allotment of TRX as well.
+
+If one of top ten voters changes then the rewards will be divided accordingly also to the new voters.
+
+The remaining 50% of block rewards will be allocated out towards succeeding global charitable campaigns to be funded; and to the United Nations programs needing humanitarian aid funds globally.
+
+————
+
+Participation Type 2. 
+
+Permanent Voters:
+
+Each TRX sent to Charity Compassion Coin CCC SR Wallet at TronScan.org receives in return 100 Charity Compassion Coin’s in Air Drop.
+
+10 Billion CCC Crypto AirDrop will take place in all for this. Each TRX spent into CCC SR wallet becomes a permanent frozen vote by our own accord and organization.
+
+-You may then freely spend back into ecosystem to GIVE to different charitable campaigns running at www.CharityCompassionCoin.com
+
+-Or you may HODL for when open market cryptocurrency exchange trading occurs for Charity Compassion Coin CCC.
 
 --------
 
