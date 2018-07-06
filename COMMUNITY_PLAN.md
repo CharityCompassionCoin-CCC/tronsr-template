@@ -38,6 +38,16 @@ Each TRX sent to Charity Compassion Coin CCC SR Wallet at TronScan.org receives 
 
 --------
 
+Pre Block Production voting bonus incentives: 
+
+All voters whom cast votes and keep these votes consistent up to 100,100,100 votes will all recieve 100% of all block rewards allocated accordingly to the volume of each person votes every 24 hours at 12AM (00:00) UTC Time.
+
+Once 100,100,100 Votes Towards Charity Compassion Coin has been met, the above two Participation Campaign types will resume. Participation Type 2 is always accessible during this pre block production voting bonus incentives phase.
+
+Dont Miss Out!
+
+--------
+
 Token Overview:
 
 52 Billion Charity Compassion Coin (CCC)'s in all.
