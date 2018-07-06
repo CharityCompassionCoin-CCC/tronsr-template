@@ -18,16 +18,18 @@ https://img1.wsimg.com/blobby/go/1217507f-e02a-4252-ab29-f0cd42bf2ef9/downloads/
 
 Charity Compassion Coin (CCC) Social Media Influences:
 
-Facebook:
-https://www.facebook.com/CharityCompassionCoin/
-
-https://www.facebook.com/groups/1385095844969503/
+YouTube: https://www.youtube.com/watch?v=V39K0aFWRYI&list=PL39Xen27URLdeVAs6lhz-0PtqJhEtf9__
 
 Telegram:
 https://t.me/CharityCompassionCoin
 
+Twitter:
+https://twitter.com/CCC_GIVES
+
 Instagram:
 https://www.instagram.com/charitycompassioncoin/
 
-Twitter:
-https://twitter.com/CCC_GIVES
+Facebook:
+https://www.facebook.com/CharityCompassionCoin/
+
+https://www.facebook.com/groups/1385095844969503/
