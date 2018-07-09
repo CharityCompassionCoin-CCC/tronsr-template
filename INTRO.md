@@ -1,3 +1,9 @@
+100% TRX SR Candidate Block Rewards Allocated To You, The Community Of Voters, Every Day at 1am UTC Time!
+The More You Hold Votes, The More TRX You Are Rewarded Every Day!
+Annual December 31st, End Of Year Bonus TRX Allocated To The 100 Top Voters Whom Held The Highest Volume Of Votes The Longest! 
+
+Dont Miss Out!
+
 Charity Compassion Coin (CCC): 
 
 We are a nonprofit organization focused on helping make the world around us a better, happier place. 
