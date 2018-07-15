@@ -14,7 +14,7 @@ Dont Miss Out!
 
 Charity Compassion Coin (CCC): 
 
-We are a nonprofit organization focused on helping make the world around us a better, happier place. 
+We are a charity organization focused on helping make the world around us a better, happier place. 
 
 With the help of blockchain technology we ensure Governments and International powers that be, can recognize the ability of Charity Compassion Coin's ability to seamlessly integrate any size of needed humanitarian aid and relief funds. 
 
