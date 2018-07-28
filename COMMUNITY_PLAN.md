@@ -20,7 +20,7 @@ Those whom casted top ten highest voting volumes will receive 50% of block produ
 
 If one of top ten voters changes then the rewards will be divided accordingly also to the new voters.
 
-The remaining 50% of block rewards will be allocated out towards succeeding global charitable campaigns to be funded; and to the United Nations programs needing humanitarian aid funds globally.
+The remaining 50% of block rewards will be allocated out towards the CCC TRON TVM DEVELOPERS FUND through our website ecosystem and to the United Nations programs needing humanitarian aid funds globally (25%/25%).
 
 ————
 
@@ -28,13 +28,15 @@ Participation Type 2.
 
 Permanent Voters:
 
-Each TRX sent to Charity Compassion Coin CCC SR Wallet at TronScan.org receives in return 100 Charity Compassion Coin’s in Air Drop.
+Each TRX sent to Charity Compassion Coin CCC SR Wallet at TronScan.org receives in return 100 Charity Compassion Coin’s in Air Drop (1 Million Charity Compassion Coin's will be available for this AirDrop).
 
-10 Billion CCC Crypto AirDrop will take place in all for this. Each TRX spent into CCC SR wallet becomes a permanent frozen vote by our own accord and organization.
+10 Billion CCC Crypto AirDrop will take place in all, after one million CCC's are airdropped the airdrop particpiation will be a 1:1 TRX:CCC Ratio. Each TRX spent into CCC SR wallet becomes a permanent frozen vote by our own accord and organization.
 
 -You may then freely spend back into ecosystem to GIVE to different charitable campaigns running at www.CharityCompassionCoin.com
 
--Or you may HODL for when open market cryptocurrency exchange trading occurs for Charity Compassion Coin CCC.
+-Spend back into Charity Compassion Coin Ecosystem in return for TRX.(Note: 1:100 TRX:CCC Ratio participants are required to hold until open market trading upon a cryptocurrency exchange.
+
+-Or you may HODL to give to your children's children.
 
 ----
 
@@ -42,7 +44,7 @@ Pre Block Production: Voters Bonus TRX Incentives:
 
 All voters whome cast votes and keep these votes consistent up to 100,100,100 votes will all recieve 100% of all block rewards allocated accordingly to the volume of each person votes every 24 hours at 12AM (00:00) UTC Time.
 
-Once 100,100,100 Votes Towards Charity Compassion Coin has been met, the above two Participation Campaign types will resume. Participation Type 2 is always accessible during this pre block production voting bonus incentives phase.
+Once 110,110,110 Votes Towards Charity Compassion Coin has been met, the above two Participation Campaign types will resume. Participation Type 2 is always accessible during this pre block production voting bonus incentives phase.
 
 Dont Miss Out!
 
