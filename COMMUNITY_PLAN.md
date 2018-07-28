@@ -79,3 +79,8 @@ Incentives of Tron based community forums directly here to contribute to constru
 Community promotion efforts:
 
 Cross platform marketing of social media accounts: Airdrops to devout community followers in Telegram, Facebook, Instagram and Twitter. Prospecting for new and improved media outlets consistently.
+
+
+*Disclamer: All Voters Must Complete Voter KYC Registration To Receive Daily TRX Rewards Due To Federal Laws and Regulations* 
+
+*(KYC Registration Form At This Link: https://charitycompassioncoin.com/ccc-tron-sr-campaign.*
