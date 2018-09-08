@@ -1,8 +1,8 @@
 100% TRX SR Candidate Block Rewards Allocated To You, The Community Of Voters!
 
-Every Day at 1am UTC Time Your TRX SR Voter Rewards Are Allocated To Your Wallets!
+Once A Week The Entire Weeks Worth Of Compiled TRX Rewards Are Calculated And Distrubuted To All Voters Every Monday At 12AM UTC Time. These TRX Rewards Are Sent Directly To Your TRX SR Voter Wallet Addresses!
 
-The More You Hold Votes, The More TRX You Are Rewarded Every Day!
+The More You Hold Votes, The More TRX You Are Rewarded!
 
 Annual December 31st: 
 
