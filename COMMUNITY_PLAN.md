@@ -16,7 +16,7 @@ Participation Type 1.
 
 Freeze Voters:
 
-Those whom casted top ten highest voting volumes will receive 50% of block production rewards every 24 hours in the form of Tron TRX: along with an annual end of year bonus allotment of TRX as well.
+Those whom casted top ten highest voting volumes will receive 50% of block production rewards every week in the form of Tron TRX: along with an annual end of year bonus allotment of TRX as well. Every Monday at 12AM UTC time the entire prior weeks worth of TRX SR rewards will be compiled, calculated and distributed out to all voters wallet addresses. This will allow for further voting stability and sustainable bandwidth expenditures.
 
 If one of top ten voters changes then the rewards will be divided accordingly also to the new voters.
 
