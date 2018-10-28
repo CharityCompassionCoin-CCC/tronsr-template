@@ -23,7 +23,7 @@ Server location:
 
 Multiple IP's (IPs also may vary at times besides mainnet witness based node)
 
-Server buildout is located in Northampton, Massachusetts, United States, and in Huntington Massachusetts, United States.
+Server buildout is located private undisclosed locations.
 
 --------
 
