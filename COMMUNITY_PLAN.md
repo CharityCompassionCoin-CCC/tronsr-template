@@ -1,6 +1,6 @@
 ANNUAL COMMUNITY SUPPORT PLAN
 
-Campaign & AirDrop Overview:
+Campaign Overview:
 
 
 Guidance for Voters:
@@ -20,7 +20,7 @@ Those whom casted top ten highest voting volumes will receive 50% of block produ
 
 If one of top ten voters changes then the rewards will be divided accordingly also to the new voters.
 
-The remaining 50% of block rewards will be allocated out towards the CCC TRON TVM DEVELOPERS FUND through our website ecosystem and to the United Nations programs needing humanitarian aid funds globally (25%/25%).
+The remaining 50% of block rewards will be allocated out towards the CCC TRON TVM DEVELOPERS FUND through our website ecosystem and to the United Nations programs needing humanitarian aid funds globally.
 
 ————
 
@@ -43,14 +43,14 @@ All voters whome cast votes and keep these votes consistent up to 110,110,110 vo
 You may freely spend your Charity Compassion Coin (CCC) TRC10 tokens towards your choice of many different organizations we are supporting through our Global Chairty Hub online at www.charitycompassioncoin.com
 
 --------
+Token Overview: 
 
-Token Overview:
+94 Billion Charity Compassion Coin (CCC)'s in all (TRC10 & ERC20 Types).
 
-52 Billion Charity Compassion Coin (CCC)'s in all.
-
+Decimal Rating: 0 & 8 (1 ERC20 CCC can be subdivided into 0.00000000 decimal places)
 Allocation:
 
-50 Billion for Global use and circulation via charitable GIVE Builders, Governments/politicals/UN.
+92 Billion for Global use and circulation via charitable GIVE Builders, Governments/politicians and cryptocurrency trading exchanges.
 
 2 Billion are frozen for the next 3-5 years in Charity Compassion Coin's Treasury.
 
@@ -58,7 +58,8 @@ Allocation:
 
 Further implementation of Community support and ability for involvements:
 
-Incentives of Tron based community forums directly here to contribute to constructive and positive conversations surrounding around the development space of Tron and Charity Compassion Coin. Such incentives entail receiving airdrop coins direct to your wallet(s) for consistent appropriate postings and forum conversations about TRON Foundation and Charity Compassion Coin and permanent votings for the CCC Organization.
+Continuation of charitable campaign fundraising of all coded encryption coin utilities.
+Incentives of TRON based community forums directly here, to contribute to constructive and positive conversations surrounding around the development space of TRON and Charity Compassion Coin.
 
 --------
 
