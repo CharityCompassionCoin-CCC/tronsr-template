@@ -37,7 +37,7 @@ Bare metal machines and cloud vm instances.
 
 Sever configuration:
 
-Java8 until Java9 is stable: Ubuntu 16.04, 8 Core/12/32 Core/ 50gb to 1Tb, Http: Oddyssey-v2.0.(Upgrades Stay Consistent)
+Java8 until Java9 is stable: Ubuntu 16.04, 8 Core/12/32 Core/ 50gb to 1Tb, Http: Oddyssey(Upgrades Stay Consistent)
 
 Config File stays consistently updated.
 
