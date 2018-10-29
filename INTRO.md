@@ -6,6 +6,8 @@ The More You Hold Votes, The More Charity Compassion Coin (CCC) TRC10 Tokens You
 
 Spend Charity Compassion Coin's into our online ecosystem towards any of the Global Charity Hub choices here at https://charitycompassioncoin.com/global-charity-hub-portal
 
+Or Donate To Our UN Specific Program Initiative The Charity Blockchain Decentralized Autonomous Organization: www.charityblockchaindao.org
+
 When we recieve Charity Compassion Coin spent back into our organization's escrow wallet, those CCC's are sent to your choice of charitable giving in the form of TRX, BTC, ETH, direct fiat or whichever form is best for that organization upon thier own sole discretion and choice.
 
 --------
