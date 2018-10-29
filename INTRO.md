@@ -1,8 +1,8 @@
 50% SRC/SR Candidate Block Rewards Allocated To You, The Community Of Voters in the form of Charity Compassion Coin (CCC)!
 
-Once A Week The Entire Weeks Worth Of Compiled TRX Rewards Are Calculated And Distrubuted To All Voters Every Monday At 12AM UTC Time. These TRX Rewards Are Sent Directly To Your TRX SR Voter Wallet Addresses in the form of Charity Compassion Coin (CCC) at a 1:1 CCC:TRX ratio.!
+Once A Week The Entire Weeks Worth Of Compiled TRX Rewards Are Calculated And Distrubuted To All Voters Every Monday At 12AM UTC Time. These TRX Rewards Are Sent Directly To Your TRX SR Voter Wallet Addresses In The Form Of Charity Compassion Coin (CCC) At A 1:1 CCC:TRX Ratio.
 
-The More You Hold Votes, The More TRX You Are Rewarded!
+The More You Hold Votes, The More Charity Compassion Coin (CCC) TRC10 Tokens You Are Rewarded!
 
 Spend Charity Compassion Coin's into our online ecosystem towards any of the Global Charity Hub choices here at https://charitycompassioncoin.com/global-charity-hub-portal
 
