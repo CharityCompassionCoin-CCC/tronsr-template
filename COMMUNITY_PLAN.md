@@ -7,40 +7,22 @@ Guidance for Voters:
 
 Executive Introduction and Participation Guide:
 
-The way Charity Compassion Coin for Super Representative, is running its campaign is in two ways of participation:
-
-Charity Compassion Coin after being voted into SR Position and begins producing blocks will commence allocations of block rewards in the following coordination:
+The way Charity Compassion Coin for Super Representative is running its campaign as such:
 
 
 Participation Type 1. 
 
 Freeze Voters:
 
-Those whom casted top ten highest voting volumes will receive 50% of block production rewards in the form of Charity Compassion Coin (CCC) TRC10 tokens. Every Monday at 12AM UTC time the entire prior weeks worth of TRX SRC/SR rewards will be compiled, calculated and distributed out to all voters wallet addresses in the form of Charity Compassion Coin (CCC). All voters recieving CCC TRC10 tokens will recieve them in compounded volumes of whole numbers. CCC will always remain at a 1:1 ratio of CCC:TRX unless the TRON Foundation protocol changes its own rewards system based on the TRX valuation.
+Those whom cast voting volumes to Chairty Copassion Coin as an SR/SRC help allocate Tron Foundation block rewards/block production rewards of TRON TRX to secure and legitimate charitable organizations accepting cryptocurrency usch as Bitcoin and TRON.
 
-If one of top ten voters changes then the rewards will be divided accordingly also to the new voters.
-
-The remaining 50% of block rewards will be allocated out towards the CCC TRON TVM DEVELOPERS FUND through our website ecosystem and to the United Nations programs needing humanitarian aid funds globally.
+This sharing model allocates 100% of these rewards to chairtable causes such as the CCC TRON TVM DEVELOPERS FUND through our website ecosystem and to the United Nations programs needing humanitarian aid funds globally.
 
 ————
 
-Participation Type 2. 
-
-Permanent Voters:
-
-Each TRX sent to Charity Compassion Coin CCC SR Wallet at TronScan.org receives in return 1 Charity Compassion Coin (CCC)
-
--You may then freely spend back into ecosystem to GIVE to different charitable campaigns running at www.CharityCompassionCoin.com
-
--Or you may HODL to give to your children and teach them about charitable giving.
-
 ----
 
-Pre Block Production: Voters Bonus TRX Incentives: 
-
-All voters whome cast votes and keep these votes consistent up to 110,110,110 votes will all recieve 50% of all block rewards allocated accordingly to the volume of each person votes in the form of Charity Compassion Coin (CCC).
-
-You may freely spend your Charity Compassion Coin (CCC) TRC10 tokens towards your choice of many different organizations we are supporting through our Global Chairty Hub online at www.charitycompassioncoin.com
+Charity Compassion Coin (CCC) TRC10 tokens may be obtained towards your choice of many different organizations we are supporting through our Global Chairty Hub online at www.charitycompassioncoin.com and will be specifically reserved for utility in the Chairty Compassion Coin GIVE Builder DApp App/Wallet to construct a secure and full charitable building application that may be used by anyone, anywhere globally with mobile/internet access. You may learn more about the GIVE Builder at https://charitycompassioncoin.com
 
 --------
 Token Overview: 
@@ -48,11 +30,12 @@ Token Overview:
 94 Billion Charity Compassion Coin (CCC)'s in all (TRC10 & ERC20 Types).
 
 Decimal Rating: 0 & 8 (1 ERC20 CCC can be subdivided into 0.00000000 decimal places)
+
 Allocation:
 
-92 Billion for Global use and circulation via charitable GIVE Builders, Governments/politicians and cryptocurrency trading exchanges.
+92 Billion for Global use and circulation via charitable GIVE Builders, Governments/politicians and a secure cryptocurrency trading exchange for easy access to obtaining and utilizing the CCC Ledger for use in charitable project building/funding.
 
-2 Billion are frozen for the next 3-5 years in Charity Compassion Coin's Treasury.
+2 Billion are frozen for the next 3-5 years in Charity Compassion Coin's Treasury via the TRON Blockchain. 
 
 --------
 
@@ -65,9 +48,4 @@ Incentives of TRON based community forums directly here, to contribute to constr
 
 Community promotion efforts:
 
-Cross platform marketing of social media accounts: Airdrops to devout community followers in Telegram, Facebook, Instagram and Twitter. Prospecting for new and improved media outlets consistently.
-
-
-*Disclamer: All Voters Must Complete Voter KYC Registration To Receive CCC Rewards Due To Federal Laws and Regulations* 
-
-*(KYC Registration Form At This Link: https://charitycompassioncoin.com/ccc-tron-sr-campaign.*
+Cross platform marketing of social media accounts: Public reward announcements to devout community charitable/humanitarian leaders via Telegram Facebook, Instagram and Twitter. Prospecting for new and improved media outlets consistently is a longterm pillar goal of Charity Compassion Coin.
