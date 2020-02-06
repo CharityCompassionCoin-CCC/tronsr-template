@@ -1,4 +1,4 @@
-1000% SRC/SR Candidate Block Rewards allocates to secure and legitiamte charitable/humanitarian causes in the form of TRON TRX or if need be tranistioned into fiat accordingly.
+100% SRC/SR Candidate Block Rewards allocates to secure and legitiamte charitable/humanitarian causes in the form of TRON TRX or if need be tranistioned into fiat accordingly.
 
 The more you hold TRX frozen as votes, the more you help compassion the sufferring world charitably.
 
