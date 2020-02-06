@@ -1,7 +1,7 @@
 ## Founder
 
-Name: [Kingdom Kendall]
-Role: [CEO, Founder, Creator/Coder]
+Name: [Kin Kendall]
+Role: [CEO f DEX Exchange Inc., Founder, Creator/Developer/Coder]
 
 Team intros
 
