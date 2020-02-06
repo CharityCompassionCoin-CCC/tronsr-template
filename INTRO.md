@@ -1,14 +1,12 @@
-50% SRC/SR Candidate Block Rewards Allocated To You, The Community Of Voters In The Form Of Charity Compassion Coin (CCC)!
+1000% SRC/SR Candidate Block Rewards allocates to secure and legitiamte charitable/humanitarian causes in the form of TRON TRX or if need be tranistioned into fiat accordingly.
 
-Once A Week The Entire Weeks Worth Of Compiled TRX Rewards Are Calculated And Distrubuted To All Voters Every Monday At 12AM UTC Time. These TRX Rewards Are Sent Directly To Your TRX SR Voter Wallet Addresses In The Form Of Charity Compassion Coin (CCC) At A 1:1 CCC:TRX Ratio.
+The more you hold TRX frozen as votes, the more you help compassion the sufferring world charitably.
 
-The More You Hold Votes, The More Charity Compassion Coin (CCC) TRC10 Tokens You Are Rewarded!
-
-Spend Charity Compassion Coin's into our online ecosystem towards any of the Global Charity Hub choices here at https://charitycompassioncoin.com/global-charity-hub-portal
+Visit a donate through our online ecosystem towards any of the Global Charity Hub choices here at https://charitycompassioncoin.com/global-charity-hub-portal
 
 Or Donate To Our UN Specific Program Initiative The Charity Blockchain Decentralized Autonomous Organization: www.charityblockchaindao.org
 
-When we recieve Charity Compassion Coin spent back into our organization's escrow wallet, those CCC's are sent to your choice of charitable giving in the form of TRX, BTC, ETH, direct fiat or whichever form is best for that organization upon thier own sole discretion and choice.
+The Charity Compassion Coin (CCC) cryptocurrency token is currently being developed as utility within the GIVE Builder DApp App/Wallet. Learn more about the GIVE Builder DApp App at https://charitycompassioncoin.com
 
 --------
 
@@ -23,10 +21,6 @@ These funds and aid are the needed miracles to succeed rebuilding even the most 
 Together we succeed these miracles step by step, moment by moment, until any and all global sufferings are healed and once again safe, back into stability.
 
 Charity Compassion Coin is the tool for these miracles to be answered.
-
-Executive Whitepaper Link:
-
-https://charitycompassioncoin.com/ccc-vision
 
 Charity Compassion Coin (CCC) Social Media Influences:
 
