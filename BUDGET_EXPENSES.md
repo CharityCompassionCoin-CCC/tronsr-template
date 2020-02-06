@@ -1,8 +1,8 @@
-Marketing: 5-10%
+Marketing: 5%
 
 Management, development team and charity foundation employees: 15%
 
-Network and ecosystem upkeep: 5-10%, Including TRON Nodes. 
+Network and ecosystem upkeep: 5%, Including TRON Nodes. 
 
 *All transactions of the CCC cryptocurrency deployments and movements through the blockchain network will be free, utilizing TRON TRX as the transaction fuel for all GIVE Build network transactions and fees, covered by Charity Compassion Coin.
 
@@ -12,4 +12,4 @@ Charity Compassion Coin takes in charitable contributions into the foundation or
 
 Consistent operating function and performance expectation percentages: 100% consistently.
 
-General/other expenses are distributed to ssh google cloud TRON project based node runnings and research, general Xfinity business servers charges and fees, along with general foundation site operating charges for hardware and server runnings with operating expenses included.
+All above general expenses are distributed as such as well to ssh cloud TRON project based node runnings and research, general server charges and fees, along with general foundation site operating charges for hardware and server runnings. All such operating expenses included here in descriptions are networked from DEX Exchange Inc. products partner network revenue sharing and ledgered/anonymous charitable contributions.
