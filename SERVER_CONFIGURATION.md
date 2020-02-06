@@ -1,8 +1,12 @@
 PLANS FOR HARDWARE EXPANSION
 
-All hardwares are Apple Macintosh based Mac Pro's all with 7 teraflops of computing power and 12gb GDDR5 VRams, Thermal Cores, and 802.11ac wi-fi connection capabilities. Processing powers: 8/12/32 core 3.9ghz each.
+Current Cloud based nodes.
 
-Internet network speeds are at the highest peak performance that is currently allowable through business internet speed buildout and access.
+Scaling plan:
+
+All Apple Macintosh based Mac Pro's with 7 teraflops of computing power and 12gb GDDR5 VRams, Thermal Cores, and 802.11ac wi-fi connection capabilities. Processing powers: 8/12/32 core 3.9ghz each.
+
+Internet network speeds to be at the highest peak performance that is currently allowable through business internet speed buildout and access.
 
 Dual-system backup, which is a factor of stability and data security performance.
 
@@ -28,8 +32,6 @@ Server buildout is located private undisclosed locations.
 --------
 
 Server types:
-
-Xfinity based server provider for highest capably internet speed connections possible, and google cloud is host to node builds.
 
 Bare metal machines and cloud vm instances.
 
